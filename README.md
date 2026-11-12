@@ -1,0 +1,2 @@
+# ikuji-images
+Threads投稿用の画像置き場（自動で追加）
